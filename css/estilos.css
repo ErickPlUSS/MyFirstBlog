@@ -7,6 +7,7 @@ body{
     margin: 0;
     padding: 0;
 }
+
 #cointainer
 {
     width: 70%;
@@ -14,6 +15,13 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: auto;
+}
+#cabesas
+{
+    font-size: medium;
+    color: darkcyan;
+    font-family: cursive;
+
 }
 
 #cointainer h1 
