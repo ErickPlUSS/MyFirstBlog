@@ -1,7 +1,23 @@
 body{
 
     text-align: center;
-    color: aqua;
+    color:black;
     font-family: 'Times New Roman', Times, serif;
-    font-
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+#cointainer
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #DDD;
+    margin: auto;
+}
+
+#cointainer h1 
+{
+    font-size: 20px;
+
 }
